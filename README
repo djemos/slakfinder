@@ -1,0 +1,36 @@
+slakfinder v1.0.alien
+==========
+
+Contents/Menu
+----------
+* About
+* Requirements
+* Download
+* Issues/Feedbacks
+* Contribution
+
+About
+----------
+slakfinder is a PHP-based Slackware package finder.
+
+This version is forked from the original slakfinder by mrossini which had
+not been updated since 2012 and was not working on modern Slackware.
+
+Requirements
+----------
+* PHP 7 or higher
+
+Download
+----------
+* https://github.com/alienbob/slakfinder/downloads
+* git http: git clone https://github.com/alienbob/slakfinder.git
+
+Issues/Feedbacks
+----------
+* https://github.com/alienbob/slakfinder/issues
+* https://alien.slackbook.org/blog/mirror-for-slackpkg-and-slakfinder/
+
+Contribution
+----------
+* Send feedbacks
+* Fix bugs or add features
